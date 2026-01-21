@@ -1,12 +1,11 @@
-"PlayerName","TeamName","Pace","Shooting","Dribbling","Passing","Defending","Physical","Goalkeeping","OverallRating","Positions"
-"Lamine Yamal","Fc Barcelona","84","83","91","90","40","60","0","90","RW"
-"Raphinha","Fc Barcelona","91","86","88","85","50","75","0","91","LW"
-"Pedri","Fc Barcelona","75","73","90","92","75","72","0","90","CM"
-"Salah","Liverpool","85","88","86","77","38","60","0","89","RW"
-"Haaland","Manchester City","92","90","85","70","40","88","0","91","ST"
-"Vitinha","Paris Saint Germain","74","75","90","91","75","74","0","90","CM"
-"Cubarsi","Fc Barcelona","72","40","73","72","80","72","0","81","CB"
-"Van Dijk","Liverpool","74","42","70","75","87","85","0","90","CB"
-"Donnarumma","Paris Saint Germain","50","35","30","52","40","70","95","90","GK"
-"Nuno Mendes","Paris Saint Germain","95","60","83","80","78","74","0","86","LB"
-"Hakimi","Paris Saint Germain","92","65","84","83","80","76","0","86","RB"
+PlayerName,Lamine Yamal,Raphinha,Pedri,Salah,Haaland,Vitinha,Cubarsi,Van Dijk,Donnarumma,Nuno Mendes,Hakimi
+TeamName,Fc Barcelona,Fc Barcelona,Fc Barcelona,Liverpool,Manchester City,Paris Saint Germain,Fc Barcelona,Liverpool,Paris Saint Germain,Paris Saint Germain,Paris Saint Germain
+Pace,84,91,75,85,92,74,72,74,50,95,92
+Shooting,83,86,73,88,90,75,40,42,35,60,65
+Dribbling,91,88,90,86,85,90,73,70,30,83,84
+Passing,90,85,92,77,70,91,72,75,52,80,83
+Defending,40,50,75,38,40,75,80,87,40,78,80
+Physical,60,75,72,60,88,74,72,85,70,74,76
+Goalkeeping,0,0,0,0,0,0,0,0,95,0,0
+OverallRating,90,91,90,89,91,90,81,90,90,86,86
+Positions,RW,LW,CM,RW,ST,CM,CB,CB,GK,LB,RB
